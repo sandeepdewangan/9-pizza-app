@@ -32,3 +32,12 @@ Run App
 2. Styling: Tailwind
 3. Remote State Management: ReactRouter (not a state management as data is not persisted)
 4. UI State Management: Redux
+
+### File Structure
+
+Feature based approach fits well for mid sized to large sized projects.
+
+`features` -> contains features components.
+`ui` -> contains shared ui related components.
+`service` -> interacting with API.
+`util` -> helper functions which are re-usable.
