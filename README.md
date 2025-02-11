@@ -41,3 +41,8 @@ Feature based approach fits well for mid sized to large sized projects.
 `ui` -> contains shared ui related components.
 `service` -> interacting with API.
 `util` -> helper functions which are re-usable.
+
+### React Router
+
+Package:
+`npm i react-router-dom@6`
